@@ -1,2 +1,2 @@
 # kth-dd1385-labs
-Various labs done for a course in Software Engineering at KTH.
+Various labs and assignments completed for a course in Software Engineering in Java at KTH.
